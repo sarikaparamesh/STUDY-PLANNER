@@ -1,0 +1,22 @@
+1. Smart Reminders 🔔
+Add notifications or alerts before deadlines (can be browser-based).
+2. Progress Tracker 📊
+Show how much syllabus is completed using a progress bar or percentage.
+3. Subject-wise Color Coding 🎨
+Each subject gets a unique color → easier visualization.
+4. Daily Study Streak 🔥
+Track how many consecutive days the user studied (motivational feature).
+5. Priority Levels ⚡
+Mark tasks as High / Medium / Low priority.
+6. Calendar View 📅
+Display tasks in a calendar format instead of just a list.
+7. Notes Section 📝
+Allow users to write short notes for each subject/task.
+8. Dark Mode 🌙
+Simple but attractive UI feature.
+9. Export / Save Data 💾
+Save tasks in local storage so data doesn’t disappear after refresh.
+10. Pomodoro Timer ⏳
+Built-in timer (25 min study + 5 min break).
+
+
