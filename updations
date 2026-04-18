@@ -1,0 +1,19 @@
+study-planner/
+│── index.html
+│── style.css
+│── script.js
+│── config.js
+│── utils.js
+│── storage.js
+│── themes.css
+│
+├── components/
+│     ├── taskItem.js
+│
+├── assets/
+│     ├── images/
+│
+│── README.md
+│── CHANGELOG.md
+│── LICENSE
+│── CONTRIBUTING.md
